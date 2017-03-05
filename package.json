@@ -1,0 +1,12 @@
+{
+	"name": "mavericks",
+	"version": "1.0.0",
+	"description": "",
+	"keywords": [],
+	"author": "Shawn Jonnet",
+	"dependencies": {
+		"body": "5.x.x",
+		"minimist": "1.x.x",
+		"routes": "2.x.x"
+	}
+}

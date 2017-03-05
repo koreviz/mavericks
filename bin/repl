@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+/**
+ * Mavericks App
+ * Copyright(c) 2015 Koreviz
+ */
+const argv = require('minimist')(process.argv.slice(2))
+const repl = require('../repl')
+
+repl()
